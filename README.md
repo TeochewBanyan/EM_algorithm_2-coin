@@ -1,10 +1,10 @@
-# Algorithm Development
+# EM algorithm to estimate 2-coin proba
 
 
 
 ### Q1
 
-My estimate to theta_a is 0.7035, the one to theta_b is 0.2767, where theta_a is the head probability of the first coin, and theta_b is the probability of the other coin.
+The estimate to theta_a is 0.7035, the one to theta_b is 0.2767, where theta_a is the head probability of the first coin, and theta_b is the probability of the other coin.
 
 
 
